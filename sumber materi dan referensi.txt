@@ -1,0 +1,11 @@
+mongodb : {
+		mongodb dasar     : {
+					sumber :programmer zaman now,
+					palform: youtube
+		    		     },
+
+		mongodb aggregate : {
+					sumber: Bogdan Stashchuk,
+					palform: youtube
+		  	             }
+}
